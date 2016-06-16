@@ -4,7 +4,6 @@ Teach yourself programming
 # CHAPTER 1 - BASICS
 
 ## Basics of Programming
-=========================
 
 In this chapter we will learn everything related to basic programming, it's pretty mandatory that you read all of the content here because this foundation can be used to web, game or any type of programming.
 
