@@ -23,7 +23,17 @@ TODO
 
 TODO
 
-# CHAPTER 5 - COMMUNITY
+# CHAPTER 5 - TOOLS
+
+1. ack - http://beyondgrep.com/
+
+    ack is a command-line utility for searching plain-text data sets for lines matching a regular expression.
+
+2. git - https://git-scm.com/
+
+    Git is a version control system that is widely used for software development and other version control tasks. It is a distributed revision control system with an emphasis on speed, data integrity and support for distributed, non-linear workflows.
+
+# CHAPTER 6 - COMMUNITY
 
 1. https://en.wikipedia.org/wiki/Freenode
 2. https://en.wikipedia.org/wiki/GitHub
