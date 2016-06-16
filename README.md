@@ -14,6 +14,28 @@ In this chapter we will learn everything related to basic programming, it's pret
 
 # CHAPTER 2 - PROGRAMMING DESIGNS
 
+TODO
+
 # CHAPTER 3 - BACK-END
 
+TODO
+
 # CHAPTER 4 - FRONT-END
+
+TODO
+
+# CHAPTER 5 - COMMUNITY
+
+1. https://en.wikipedia.org/wiki/Freenode
+2. https://en.wikipedia.org/wiki/GitHub
+
+
+# COMPLETE CURRICULUM - OTHER RESOURCES
+
+1. https://www.freecodecamp.com/
+
+    Here you can get a complete curriculum on Front-end Web Development, Back-end and Data Visualization.
+
+2. http://nodeschool.io/
+
+    Learn about node with many courses here.
