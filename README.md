@@ -33,6 +33,8 @@ TODO
 
     Git is a version control system that is widely used for software development and other version control tasks. It is a distributed revision control system with an emphasis on speed, data integrity and support for distributed, non-linear workflows.
 
+    2.1. http://willianjusten.teachable.com/courses/git-e-github-para-iniciantes (PT-BR)
+
 3. the odin project - http://www.theodinproject.com/courses?ref=home
 
 
